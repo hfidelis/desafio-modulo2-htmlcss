@@ -1,5 +1,5 @@
-# Projeto do Módulo 2, HTML5 &amp; CSS3 
+# :clipboard: Projeto do Módulo 2, HTML5 &amp; CSS3. [Curso em Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s)
 
-# Exemplo de site responsivo para telas mais extensas, e dispositivos móveis.
+# Exemplo de site responsivo para telas mais extensas :computer: e dispositivos móveis :iphone:.
 
-# acesse pelo link > <a href="https://hfidelis.github.io/desafio-modulo2-htmlcss/android.html" target="_blank"> 
+# acesse clicando :point_right: [AQUI](https://hfidelis.github.io/desafio-modulo2-htmlcss/android.html) :point_left:
